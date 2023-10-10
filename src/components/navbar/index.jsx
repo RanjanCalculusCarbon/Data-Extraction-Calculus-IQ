@@ -49,6 +49,11 @@ function Home() {
                                 SPCBs/PCCs
                             </span>
                         </Link>
+                        <Link href="SPCBs_PCCs/pwp">
+                            <span className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4 cursor-pointer">
+                                SPCBs/PCCs (pwp)
+                            </span>
+                        </Link>
                         <Link href="CertificateAvailabilty">
                             <span className="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white cursor-pointer">
                                 Certificate Availability
